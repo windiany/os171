@@ -1,0 +1,3 @@
+In week 01 we are asked to create 14 file and create dummy file for each of them.
+And implemented push and pull to git.
+And now we are asked to delete dummy file under week0.1
