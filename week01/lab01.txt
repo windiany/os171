@@ -22,3 +22,4 @@ drwxr-xr-x  2 windiany.lestari StafCS 4096 Feb 16 00:32 week09
 drwxr-xr-x  2 windiany.lestari StafCS 4096 Feb 16 00:32 week10
 drwxr-xr-x  2 windiany.lestari StafCS 4096 Feb 16 00:34 xtra
 /home/fasilkom/mahasiswa/w/windiany.lestari/os171/week01
+Today is 16 Feb 2017 at 01:29:18
