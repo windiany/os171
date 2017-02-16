@@ -1,0 +1,8 @@
+w01-170214-19-LR-About: Operating System Structure, From: Lecturer
+w01-170214-19-LR-About: Operating System Structure, From: Lecturer
+w01-170214-20-LR-About: Hak Kekayaan Intelektual, From: Lecturer
+w01-170214-20-LR-About: Trying shell scripting in lab 2601, From: Lecturer
+w01-170214-21-LR-About: Trying shell scripting in lab 2601, From: Lecturer
+w01-170216-01-LR-About: Task week01 CLI, GIT, and Script
+w01-170216-01-LR-About: Task week01 CLI, GIT, and Script
+w01-170216-02-LR-About: Task week01 CLI, GIT, and Script
