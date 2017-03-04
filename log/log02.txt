@@ -1,11 +1,11 @@
-w01-210214-19-LR-About: Protection, From: Lecturer
-w01-210214-19-LR-About: Protection, From: Lecturer
-w01-210214-20-LR-About: Security, From: Lecturer
-w01-210214-20-LR-About: Security, From: Lecturer
-w01-210214-21-LR-About: Introduction to C Programming, From: Lecturer
-w01-250216-10-PS-About: Task week02 Introduction to C Programming, Privacy Matters, Encryption and Digital Signature using GnuPG
-w01-250216-10-PS-About: Task week02 Introduction to C Programming, Privacy Matters, Encryption and Digital Signature using GnuPG
-w01-250216-11-PS-About: Task week02 Introduction to C Programming, Privacy Matters, Encryption and Digital Signature using GnuPG
-w01-250216-11-PS-About: Task week02 Introduction to C Programming, Privacy Matters, Encryption and Digital Signature using GnuPG
-w01-250216-12-DS-About: Discussion Encryption and Digital Signature in Lab
-w01-250216-12-DS-About: Discussion Encryption and Digital Signature in Lab
+w02-170221-19-LR-About: Protection, From: Lecturer
+w02-170221-19-LR-About: Protection, From: Lecturer
+w02-170221-20-LR-About: Security, From: Lecturer
+w02-170221-20-LR-About: Security, From: Lecturer
+w02-170221-21-LR-About: Introduction to C Programming, From: Lecturer
+w02-170225-10-PS-About: Task week02 Introduction to C Programming, Privacy Matters, Encryption and Digital Signature using GnuPG
+w02-170225-10-PS-About: Task week02 Introduction to C Programming, Privacy Matters, Encryption and Digital Signature using GnuPG
+w02-170225-11-PS-About: Task week02 Introduction to C Programming, Privacy Matters, Encryption and Digital Signature using GnuPG
+w02-170225-11-PS-About: Task week02 Introduction to C Programming, Privacy Matters, Encryption and Digital Signature using GnuPG
+w02-170225-12-DS-About: Discussion Encryption and Digital Signature in Lab
+w02-170225-12-DS-About: Discussion Encryption and Digital Signature in Lab
