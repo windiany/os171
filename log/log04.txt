@@ -1,0 +1,15 @@
+w04-170308-19-LR-About: Addressing, Pointers, IO Programming, From: Lecturer
+w04-170308-19-LR-About: Addressing, Pointers, IO Programming, From: Lecturer
+w04-170308-20-LR-About: Addressing, Pointers, IO Programming, From: Lecturer
+w04-170308-20-LR-About: Addressing, Pointers, IO Programming, From: Lecturer, From: Lecturer
+w04-170308-21-LR-About: Addressing, Pointers, IO Programming, From: Lecturer, From: Lecturer
+w04-170311-10-PS-About: Task week04 Global variable and local variable, Pointers, IO Process
+w04-170311-10-PS-About: Task week04 Global variable and local variable, Pointers, IO Process
+w04-170311-11-PS-About: Task week04 Global variable and local variable, Pointers, IO Process
+w04-170311-11-PS-About: Task week04 Global variable and local variable, Pointers, IO Process
+w04-170311-12-DS-About: Task week04 Global variable and local variable, Pointers, IO Process
+w04-170311-12-DS-About: Task week04 Global variable and local variable, Pointers, IO Process
+w04-170311-13-DS-About: Task week04 Global variable and local variable, Pointers, IO Process
+w04-170311-13-DS-About: Task week04 Global variable and local variable, Pointers, IO Process
+w04-170311-14-DS-About: Task week04 Global variable and local variable, Pointers, IO Process
+w04-170311-14-DS-About: Discussion access permission
