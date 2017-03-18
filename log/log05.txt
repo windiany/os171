@@ -1,0 +1,14 @@
+w05-170314-19-LR-About: Memory, From: Lecturer
+w05-170314-19-LR-About: Memory, From: Lecturer
+w05-170314-20-LR-About: Memory, From: Lecturer
+w05-170314-20-LR-About: Memory, From: Lecturer, From: Lecturer
+w05-170318-10-PS-About: Task week05 Memory usage
+w05-170318-10-PS-About: Task week05 Memory usage
+w05-170318-11-PS-About: Task week05 Memory usage
+w05-170318-11-PS-About: Task week05 Memory usage
+w05-170318-12-DS-About: Task week05 Memory usage
+w05-170318-12-DS-About: Task week05 Memory usage
+w05-170318-13-DS-About: Task week05 Memory usage
+w05-170318-13-DS-About: Task week05 Memory usage
+w05-170318-14-DS-About: Discussion Memory usage
+w05-170318-14-DS-About: Discussion Memory usage
