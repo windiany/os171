@@ -1,0 +1,23 @@
+w10-170509-19-LR-About: CPU Scheduling, From: Lecturer
+w10-170509-19-LR-About: CPU Scheduling, From: Lecturer
+w10-170509-20-LR-About: CPU Scheduling, From: Lecturer
+w10-170509-20-LR-About: CPU Scheduling, From: Lecturer
+w10-170509-21-LR-About: CPU Scheduling, From: Lecturer
+w10-170515-20-PS-About: Searching and making ulasan 1 and 2 and trying to doing some ranking
+w10-170515-20-PS-About: Searching and making ulasan 1 and 2 and trying to doing some ranking
+w10-170515-21-PS-About: Searching and making ulasan 1 and 2 and trying to doing some ranking
+w10-170515-21-PS-About: Searching and making ulasan 1 and 2 and trying to doing some ranking
+w10-170515-22-PS-About: Searching and making ulasan 1 and 2 and trying to doing some ranking
+w10-170515-22-PS-About: Searching and making ulasan 1 and 2 and trying to doing some ranking
+w10-170515-23-PS-About: Searching and making ulasan 1 and 2 and trying to doing some ranking
+w10-170515-23-DS-About: Discussion about ulasan and ranking
+w10-170523-01-PS-About: Meranking ulasan dengan paket ganjil
+w10-170523-01-PS-About: Meranking ulasan dengan paket ganjil
+w10-170523-02-PS-About: Meranking ulasan dengan paket ganjil
+w10-170523-02-PS-About: Meranking ulasan dengan paket ganjil
+w10-170523-03-PS-About: Meranking ulasan dengan paket ganjil
+w10-170523-03-PS-About: Meranking ulasan dengan paket ganjil
+w10-170523-04-PS-About: Meranking ulasan dengan paket ganjil
+w10-170523-04-PS-About: Meranking ulasan dengan paket ganjil
+w10-170523-22-PS-About: Meranking ulasan dengan paket ganjil
+w10-170523-22-PS-About: Meranking ulasan dengan paket ganjil
